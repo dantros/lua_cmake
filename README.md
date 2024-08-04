@@ -26,4 +26,4 @@ The build files are written to `..\build_cmake\ninja-release`, go there and exec
 - Yes, there are other similar projects out there, but I opted for implementing my own because of reasons.
 - Why not using adding https://github.com/lua/lua as a submodule?
   - As that repository states, it is mirrored irregularly.
-  - It doesn't include all files availables when downloading the source from the official website www.lua.org. (luac.c, lua.hpp)
+  - The source code downloaded from the official website www.lua.org includes more files (luac.c, lua.hpp, etc?)
