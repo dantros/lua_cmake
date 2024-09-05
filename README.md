@@ -11,11 +11,7 @@ This custom version does the following:
 
 ## How to build?
 
-Clone this repository and go inside the repo root folder. Get the lua source source code
-```
-git submodule update --init
-```
-Then generate the build files with your prefered presets.
+Clone this repository and generate the build files with your prefered presets.
 ```
 cmake --preset ninja-release
 ```
